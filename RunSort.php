@@ -1,8 +1,8 @@
 <?php
 
-include 'teste.php';
+include 'SecretFriendSortService.php';
 
-use Home\Desktop\SortSecretFriend;
+use dir\SortSecretFriend;
 
 $service = new SortSecretFriend([
     1  => 'Maykel',

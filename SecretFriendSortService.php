@@ -1,6 +1,6 @@
 <?php
 
-namespace Home\Desktop;
+namespace dir;
 
 class SortSecretFriend
 {
