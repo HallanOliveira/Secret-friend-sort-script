@@ -4,4 +4,4 @@ This project, is a basic script to sort a secret friend to a names group.
 
 written in pure PHP.
 
-<i>By: halla_douglas@hotmail.com</i>
+<i>By: hallan_douglas@hotmail.com</i>
